@@ -1,0 +1,22 @@
+{
+  "name": "photoserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryanstearns/photoserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bryanstearns/photoserver/issues"
+  },
+  "homepage": "https://github.com/bryanstearns/photoserver#readme",
+  "engines": {
+    "node": "10.x"
+  }
+}
